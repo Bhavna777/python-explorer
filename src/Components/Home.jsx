@@ -8,8 +8,9 @@ import image1 from './../image/img1.png';
 import image2 from './../image/img2.png';
 import image3 from './../image/img3.png';
 import image4 from './../image/img4.png';
-import img5 from './../image/img5.jpeg';
-import img6 from './../image/img6.jpg';
+
+
+
 
 
 

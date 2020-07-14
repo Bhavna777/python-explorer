@@ -1,6 +1,8 @@
 import React from 'react';
 import './../Css/AdvancePython.css';
 import CorePythonSection from './CorePythonSection';
+import img7 from './../image/img7.jpg';
+import img8 from './../image/img8.jpg';
 
 const AdvancePython = () => {
 	return (
@@ -8,7 +10,9 @@ const AdvancePython = () => {
 			<div className = "AdvancePythonStyle">
 				<h1>Welcome to Advance Python page.</h1>
 			</div>
-			<CorePythonSection 
+			<CorePythonSection
+				imgsrc1 = {img7}
+				imgsrc2 = {img8} 
 				FirstSectionTitle = "Advance Python Content"
 				SecondSectionTitle = "Advance Python Exercise"
 				title1 = "Django Framework"

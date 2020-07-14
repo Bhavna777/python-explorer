@@ -2,6 +2,8 @@ import React from 'react';
 import './../Css/CorePython.css';
 import CorePythonSection from './CorePythonSection';
 import {Link} from 'react-router-dom';
+import img5 from './../image/img5.jpeg';
+import img6 from './../image/img6.jpg';
 
 
 {/* <Link to="/Introduction"><h4>{props.title1}</h4></Link> */}
@@ -12,6 +14,8 @@ const CorePython = () => {
 				<h1>Welcome to Core Python</h1>
 			</div>
 			<CorePythonSection
+				imgsrc1 = {img5}
+				imgsrc2 = {img6}
 				FirstSectionTitle="Core Python Content"
 				SecondSectionTitle="Core Python Exercise"
 				title1="Introduction"

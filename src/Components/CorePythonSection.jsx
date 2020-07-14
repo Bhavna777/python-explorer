@@ -1,7 +1,7 @@
 import React from 'react';
 import './../Css/CorePythonSection.css';
-import img5 from './../image/img5.jpeg';
-import img6 from './../image/img6.jpg';
+// import img5 from './../image/img5.jpeg';
+// import img6 from './../image/img6.jpg';
 import { Link } from 'react-router-dom';
 
 
@@ -12,7 +12,7 @@ const CorePythonSection = (props) => {
             <section className = "CorePythonSectionStyle1 text-center">
                 <div className = "row1">
                     <div className = "col-lg-6 col-md-6 col-md-12">
-                        <img src = {img5} alt = "not found"/>
+                        <img src = {props.imgsrc1} alt = "not found"/>
                     </div>
                     <div className = "col-lg-6 col-md-6 col-md-12">
                         <h2 className = "mt-2 mb-4"><b>{props.FirstSectionTitle}</b></h2>
@@ -45,7 +45,7 @@ const CorePythonSection = (props) => {
                             <Link to="#"><h4>{props.title10}</h4></Link>
                     </div>
                     <div className = "col-lg-6 col-md-6 col-md-12">
-                        <img src = {img6} alt = "not found"/>
+                        <img src = {props.imgsrc2} alt = "not found"/>
                     </div>
                 </div>
             </section>
