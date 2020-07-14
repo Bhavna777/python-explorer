@@ -9,7 +9,7 @@ const CorePython = () => {
 	return (
 		<>
 			<div className="CorePythonStyle">
-				{/* <h1>Welcome to Core Python</h1> */}
+				<h1>Welcome to Core Python</h1>
 			</div>
 			<CorePythonSection
 				FirstSectionTitle="Core Python Content"
