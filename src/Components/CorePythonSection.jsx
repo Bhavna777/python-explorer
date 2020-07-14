@@ -16,7 +16,7 @@ const CorePythonSection = (props) => {
                     </div>
                     <div className = "col-lg-6 col-md-6 col-md-12">
                         <h2 className = "mt-2 mb-4"><b>{props.FirstSectionTitle}</b></h2>
-                            <Link to="/Introduction"><h4>{props.title1}</h4></Link>
+                            <Link to="#"><h4>{props.title1}</h4></Link>
                             <Link to="#"><h4>{props.title2}</h4></Link>
                             <Link to="#"><h4>{props.title3}</h4></Link>
                             <Link to="#"><h4>{props.title4}</h4></Link>

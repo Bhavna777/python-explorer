@@ -13,7 +13,7 @@ import About from './Components/About';
 import Contact from './Components/Contact';
 import {BrowserRouter, Route, Switch} from 'react-router-dom';
 import Footer from './Components/Footer';
-import Introduction from './Components/Introduction';
+// import Introduction from './Components/Introduction';
 
 function App() {
     return (
@@ -27,7 +27,7 @@ function App() {
         <Route path="/Project" exact component= {Project} />
         <Route path="/About" component= {About} />
         <Route path="/Contact" component= {Contact} />
-        <Introduction />
+        {/* <Introduction /> */}
         </Switch>
         <Footer />
         </div>
