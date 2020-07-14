@@ -1,0 +1,24 @@
+.AboutStyle{
+	width: 100%;
+	height: 557px;
+	background-color: pink;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.AboutSection {
+	background-color: khaki;
+	
+}
+
+.AboutSection img {
+	height: 50vh;
+	width: 600px;
+	margin: 30px;
+	border-radius: 200px;
+}
+
+.AboutSection h1{
+	margin-top: 120px;
+}

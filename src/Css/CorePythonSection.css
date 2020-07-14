@@ -1,0 +1,87 @@
+.CorePythonSectionStyle1{
+    height: 90vh;
+    width: 100%;
+    background: radial-gradient(#57f16c,rgb(188, 178, 245),#57f16c);
+}
+
+
+
+.CorePythonSectionStyle1 img {
+    height: 70vh;
+    width:674px;
+    border-radius: 100px;
+}
+
+
+.row1{
+    display: inline;
+    display: flex;
+    padding-top: 60px;
+    padding-left: 60px;
+}
+
+
+.CorePythonSectionStyle2{
+    height: 90vh;
+    width: 100%;
+    background: radial-gradient(#f1b0d8,rgb(232, 236, 236),#dba9d0);
+}
+
+
+.CorePythonSectionStyle2 img {
+    height: 70vh;
+    width:674px;
+    border-radius: 100px;
+}
+
+.row2{
+    display: inline;
+    display: flex;
+    padding-top: 60px;
+    padding-right: 60px;
+}
+
+.QuizSection {
+  background: radial-gradient(#c4e64d,rgb(234, 234, 241),#d1f047);
+}
+
+
+.QuizBtn{
+    background: radial-gradient(#8d57f1,rgb(243, 243, 242),#8057f1);
+  	border: none;
+  	color: white;
+    text-align: center;
+    margin-left: 180px;
+    margin-bottom: 70px;
+  	text-decoration: none;
+    display: inline-block;
+    height: 200px;  
+    width: 1000px;
+  	font-size: 100px;
+    cursor: pointer;
+    border-radius: 100px;
+
+}
+
+.CertificateSection {
+  background: radial-gradient(#6125d1,rgb(163, 159, 218),#c6c5c9);
+}
+
+
+
+.CertificateBtn{
+	background: radial-gradient(#c4e64d,rgb(234, 234, 241),#d1f047);
+  	border: none;
+  	color: white;
+    text-align: center;
+    margin-left: 180px;
+    margin-bottom: 70px;
+  	text-decoration: none;
+    display: inline-block;
+    height: 200px;  
+    width: 1000px;
+  	font-size: 100px;
+    cursor: pointer;
+    border-radius: 100px;
+
+}

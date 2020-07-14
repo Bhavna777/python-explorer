@@ -1,0 +1,67 @@
+.FooterStyle{
+    background: linear-gradient(green,yellow,green);
+    color: black;
+    text-align: center;
+}
+
+h1{
+    padding: 40px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#name{
+    height: 50px;
+    width: 60%;
+    margin-top: 20px;
+    text-align: center;
+    background-color: skyblue;
+    color: black;
+    border-radius: 5px;
+}
+
+#email{
+    height: 50px;
+    width: 60%;
+    margin-top: 10px;
+    text-align: center;
+    background-color: skyblue;
+    color: black;
+    border-radius: 5px;
+}
+
+#msg_subject{
+    height: 50px;
+    width: 60%;
+    margin-top: 10px;
+    text-align: center;
+    background-color: skyblue;
+    color: black;
+    border-radius: 5px;
+}
+
+#message{
+    /* height: 30px; */
+    width: 60%;
+    margin-top: 10px;
+    text-align: center;
+    background-color:violet;
+    color: black;
+    border-radius: 5px;
+}
+
+#submit{
+    height: 40px;
+    width: 60%;
+    margin-top: 10px;
+    background-color: black;
+    margin-bottom: 40px;
+    border-radius: 10px;
+
+}
+

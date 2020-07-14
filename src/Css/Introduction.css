@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.OuterDiv{
+    background-color: skyblue;
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+}
+
+.InnerDiv{
+    /* height: 200vh; */
+    /* width: 949px; */
+    /* margin-left: 200px;
+    margin-right: 200px; */
+    background-color: lightgray;
+}
+
+.InnerDiv p{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 100px;
+}
