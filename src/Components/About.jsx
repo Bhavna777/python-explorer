@@ -1,6 +1,6 @@
 import React from 'react';
 import './../Css/About.css';
-import img5 from './../image/Bhavna.jpg';
+import Bhavna from './../image/Bhavna.jpg';
 
 const About = () => {
 	return (
@@ -10,7 +10,7 @@ const About = () => {
 			</div>
 			<div className = "row AboutSection">
                 <div className = "col-lg-6 col-md-6 col-md-12">
-                    <img src = {img5} alt = "not found"/>
+                    <img src = {Bhavna} alt = "not found"/>
                 </div>
                 <div className = "col-lg-6 col-md-6 col-md-12">
                         <h1>Hii, I am Bhavna walia.</h1>
